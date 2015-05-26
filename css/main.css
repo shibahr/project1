@@ -1,22 +1,26 @@
 
-*{
+body {
 	font-family: 'Ribeye', cursive;
 }
+
 h2 {
 	margin-left: 20px;
 	color: #9E9E9E;
 	font: normal;
 	font-family: sans-serif; 
 }
+
 h3 {
 	text-align: center;
 	font-size: 2em;
 	font-family: alegreya;
 }
+
 h4 {
 	font: normal;
 	font-family: sans-serif;
-}	
+}
+	
 p {
 	font: normal;
 	color: #9E9E9E;;
@@ -24,6 +28,7 @@ p {
 	font-size: 1em;
 	text-align: center;
 }
+
 hr {
 	border-top: 5px solid;
 	color:  #9E9E9E;
